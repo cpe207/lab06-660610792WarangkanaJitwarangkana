@@ -4,6 +4,7 @@ import axios from "axios";
 /* assign interface/type to the function definition properly */
 const getUser = async (userId: number) => {
   /* Your code here */
+  
 };
 
 //test case
